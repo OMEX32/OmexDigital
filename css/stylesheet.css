@@ -1145,8 +1145,7 @@ footer a {
     background-size: auto; 
   }
   header {
-    padding: 150px;
-    height: 400px;
+    padding: 100px;
     background-attachment: scroll; 
 }
 .container p{
